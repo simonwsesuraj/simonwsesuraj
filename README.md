@@ -168,11 +168,11 @@ A web-based campus navigation system designed to help students and visitors find
 
 Want to see more of my work?
 
-### 🧠 Machine Learning Projects
+### 🌐 Machine Learning Projects
 
 🔗 **[Explore ML Projects →](https://github.com/simonwsesuraj/MLProjects)**
 
-### 🔬 Deep Learning Projects
+### 🌐 Deep Learning Projects
 
 🔗 **[Explore Deep Learning Projects →](https://github.com/simonwsesuraj/DlProjects)**
 
