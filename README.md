@@ -181,6 +181,22 @@ Want to see more of my work?
 🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/FullStackProjects)**
 
 ---
+### 🌐 React Projects
+
+🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/ReactProjects)**
+
+---
+
+### 🌐 Django Projects
+
+🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/DjangoProjects)**
+
+---
+### 🌐 JavaScript Projects
+
+🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/JavaScriptProjects)**
+
+---
 # 📌 What I'm Looking For
 
 I'm interested in opportunities related to:
