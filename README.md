@@ -31,7 +31,7 @@ I'm currently strengthening my skills in **Artificial Intelligence, Machine Lear
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -64,10 +64,9 @@ I'm currently strengthening my skills in **Artificial Intelligence, Machine Lear
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Technologies
@@ -159,74 +158,15 @@ A web-based campus navigation system designed to help students and visitors find
 * 🛣️ Walkable paths
 * 🎤 Voice assistance
 
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/campus-navigation-system)**
+🔗 **[View Project →](https://github.com/simonwsesuraj/CampusNavigationSystem)**
 
 ---
 
-## 📧 Spam Email Detection
 
-**Python + TensorFlow + Keras + LSTM**
-
-A Deep Learning project that classifies text messages/emails as spam or legitimate using Natural Language Processing and an LSTM neural network.
-
-**Key Concepts:**
-
-* Text preprocessing
-* Tokenization
-* Sequence padding
-* Word embeddings
-* LSTM
-* Binary classification
-
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/spam-email-prediction)**
-
----
-
-## 🏠 House Price Prediction
-
-**Python + Pandas + Scikit-learn + Machine Learning**
-
-A Machine Learning project that predicts house prices based on property-related features.
-
-**Key Concepts:**
-
-* Data cleaning
-* Exploratory Data Analysis
-* Feature engineering
-* Data preprocessing
-* Regression
-* Model evaluation
-
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/house-price-prediction)**
-
----
-
-## 📈 AI-Powered Stock Market Analysis & Prediction Platform
-
-**React + Django + Python + Machine Learning**
-
-A full-stack platform designed to combine stock market data, analysis, visualization, and Machine Learning-based prediction.
-
-**Planned Features:**
-
-* 📊 Stock market visualization
-* 📈 Historical data analysis
-* 🤖 ML-based prediction
-* 🔎 Market information
-* 🌐 React frontend
-* ⚙️ Django backend
-
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/stock-market-analysis-prediction)**
-
----
 
 # 📂 Explore My Projects
 
 Want to see more of my work?
-
-### 🤖 AI Projects
-
-🔗 **[Explore AI Projects →](https://github.com/YOUR_USERNAME?tab=repositories&q=AI)**
 
 ### 🧠 Machine Learning Projects
 
@@ -240,68 +180,7 @@ Want to see more of my work?
 
 🔗 **[Explore Full Stack Projects →](https://github.com/YOUR_USERNAME?tab=repositories&q=full-stack)**
 
-### 📚 All Repositories
-
-🔗 **[View All Projects →](https://github.com/YOUR_USERNAME?tab=repositories)**
-
 ---
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 🎯 Current Learning Goals
-
-I'm currently focusing on becoming stronger in:
-
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-AI Engineering
-   ↓
-Backend Development
-   ↓
-Full Stack Development
-   ↓
-Production-Level AI Applications
-```
-
-### Currently Learning
-
-* 🐍 Advanced Python
-* 🧠 Machine Learning
-* 🔬 Deep Learning
-* 🗣️ Natural Language Processing
-* 🌐 Django REST Framework
-* ⚛️ React
-* 🗄️ Database Management
-* ☁️ Deployment & Cloud Technologies
-* 🧩 Data Structures & Algorithms
-
----
-
-# 💡 My Development Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
-I believe the best way to learn technology is by building real projects, understanding how things work internally, solving problems, and continuously improving the implementation.
-
----
-
 # 📌 What I'm Looking For
 
 I'm interested in opportunities related to:
@@ -327,11 +206,14 @@ I'm always interested in connecting with developers, students, recruiters, and p
   </a>
 
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://www.linkedin.com/in/simonwsesuraj"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:simonwsesuraj@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://simonsesuraj.vercel.app/#about">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
