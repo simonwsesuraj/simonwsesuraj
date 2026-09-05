@@ -206,7 +206,7 @@ I'm always interested in connecting with developers, students, recruiters, and p
   </a>
 
   <a href="https://www.linkedin.com/in/simonwsesuraj">
-    <img src="https://www.linkedin.com/in/simonwsesuraj"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:simonwsesuraj@gmail.com">
