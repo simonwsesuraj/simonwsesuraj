@@ -170,15 +170,15 @@ Want to see more of my work?
 
 ### 🧠 Machine Learning Projects
 
-🔗 **[Explore ML Projects →](https://github.com/YOUR_USERNAME?tab=repositories&q=machine-learning)**
+🔗 **[Explore ML Projects →](https://github.com/MLProjects)**
 
 ### 🔬 Deep Learning Projects
 
-🔗 **[Explore Deep Learning Projects →](https://github.com/YOUR_USERNAME?tab=repositories&q=deep-learning)**
+🔗 **[Explore Deep Learning Projects →](https://github.com/DlProjects)**
 
 ### 🌐 Full Stack Projects
 
-🔗 **[Explore Full Stack Projects →](https://github.com/YOUR_USERNAME?tab=repositories&q=full-stack)**
+🔗 **[Explore Full Stack Projects →](https://github.com/FullStackProjects)**
 
 ---
 # 📌 What I'm Looking For
