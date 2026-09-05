@@ -170,15 +170,15 @@ Want to see more of my work?
 
 ### 🧠 Machine Learning Projects
 
-🔗 **[Explore ML Projects →](https://github.com/MLProjects)**
+🔗 **[Explore ML Projects →](https://github.com/simonwsesuraj/MLProjects)**
 
 ### 🔬 Deep Learning Projects
 
-🔗 **[Explore Deep Learning Projects →](https://github.com/DlProjects)**
+🔗 **[Explore Deep Learning Projects →](https://github.com/simonwsesuraj/DlProjects)**
 
 ### 🌐 Full Stack Projects
 
-🔗 **[Explore Full Stack Projects →](https://github.com/FullStackProjects)**
+🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/FullStackProjects)**
 
 ---
 # 📌 What I'm Looking For
