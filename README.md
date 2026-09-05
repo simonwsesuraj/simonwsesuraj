@@ -201,11 +201,11 @@ I'm especially interested in opportunities where I can **learn, build real-world
 I'm always interested in connecting with developers, students, recruiters, and people working on interesting technology projects.
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/simonwsesuraj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/simonwsesuraj">
+  <a href="https://www.linkedin.com/in/simonwsesuraj">
     <img src="https://www.linkedin.com/in/simonwsesuraj"/>
   </a>
 
