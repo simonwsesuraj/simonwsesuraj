@@ -168,9 +168,13 @@ A web-based campus navigation system designed to help students and visitors find
 
 Want to see more of my work?
 
+---
+
 ### 🌐 Machine Learning Projects
 
 🔗 **[Explore ML Projects →](https://github.com/simonwsesuraj/MLProjects)**
+
+---
 
 ### 🌐 Deep Learning Projects
 
@@ -178,9 +182,12 @@ Want to see more of my work?
 
 ### 🌐 Full Stack Projects
 
+---
+
 🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/FullStackProjects)**
 
 ---
+
 ### 🌐 React Projects
 
 🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/ReactProjects)**
