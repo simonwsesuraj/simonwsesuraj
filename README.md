@@ -13,8 +13,8 @@ I'm currently strengthening my skills in **Artificial Intelligence, Machine Lear
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science student
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 🧠 Learning and building projects with **Deep Learning**
+* 🤖 Interested in **Artificial Intelligence**
+* 🧠 Exploring **Machine Learning and Deep Learning** as areas within AI
 * 🐍 Strong interest in **Python development**
 * 🌐 Building full-stack applications using **Django & React**
 * 📊 Interested in **Data Science and predictive systems**
@@ -31,21 +31,15 @@ I'm currently strengthening my skills in **Artificial Intelligence, Machine Lear
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 Artificial Intelligence
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🧠 Deep Learning
-
-<p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
@@ -64,7 +58,6 @@ I'm currently strengthening my skills in **Artificial Intelligence, Machine Lear
 ### 🗄️ Databases
 
 <p>
-  
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
@@ -82,25 +75,19 @@ I'm currently strengthening my skills in **Artificial Intelligence, Machine Lear
 
 # 🚀 What I Build
 
-I mainly work across four areas:
+My main focus is **Artificial Intelligence and Full Stack Development**.
 
-### 🤖 Artificial Intelligence
-
-Building applications that use intelligent systems to solve practical problems.
-
-**Areas of interest:**
-
-* AI-powered applications
-* Intelligent assistants
-* Recommendation systems
-* AI automation
-* Predictive applications
+Within Artificial Intelligence, my learning and project work mainly covers **Machine Learning and Deep Learning**.
 
 ---
 
+## 🤖 Artificial Intelligence
+
+Building intelligent and data-driven applications to solve practical problems.
+
 ### 🧠 Machine Learning
 
-Developing predictive models from real-world datasets.
+Machine Learning is a major area within Artificial Intelligence where I work with data to build predictive models.
 
 **Areas of interest:**
 
@@ -111,11 +98,9 @@ Developing predictive models from real-world datasets.
 * Model Evaluation
 * Predictive Analytics
 
----
-
 ### 🔬 Deep Learning
 
-Exploring neural networks and deep learning techniques.
+Deep Learning is a specialized area of Machine Learning that focuses on neural networks and representation learning.
 
 **Areas of interest:**
 
@@ -126,9 +111,21 @@ Exploring neural networks and deep learning techniques.
 * Natural Language Processing
 * Text Classification
 
+### 💡 AI Applications
+
+Applying AI and ML techniques to practical software applications.
+
+**Areas of interest:**
+
+* AI-powered applications
+* Intelligent assistants
+* Recommendation systems
+* Predictive applications
+* AI automation
+
 ---
 
-### 🌐 Full Stack Development
+## 🌐 Full Stack Development
 
 Building complete applications from frontend to backend.
 
@@ -162,48 +159,46 @@ A web-based campus navigation system designed to help students and visitors find
 
 ---
 
-
-
 # 📂 Explore My Projects
 
 Want to see more of my work?
 
----
-
-### 🌐 Machine Learning Projects
+### 🤖 Machine Learning Projects
 
 🔗 **[Explore ML Projects →](https://github.com/simonwsesuraj/MLProjects)**
 
 ---
 
-### 🌐 Deep Learning Projects
+### 🧠 Deep Learning Projects
 
 🔗 **[Explore Deep Learning Projects →](https://github.com/simonwsesuraj/DlProjects)**
 
-### 🌐 Full Stack Projects
-
 ---
+
+### 🌐 Full Stack Projects
 
 🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/FullStackProjects)**
 
 ---
 
-### 🌐 React Projects
+### ⚛️ React Projects
 
-🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/ReactProjects)**
+🔗 **[Explore React Projects →](https://github.com/simonwsesuraj/ReactProjects)**
+
+---
+
+### 🐍 Django Projects
+
+🔗 **[Explore Django Projects →](https://github.com/simonwsesuraj/DjangoProjects)**
 
 ---
 
-### 🌐 Django Projects
+### 📜 JavaScript Projects
 
-🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/DjangoProjects)**
-
----
-### 🌐 JavaScript Projects
-
-🔗 **[Explore Full Stack Projects →](https://github.com/simonwsesuraj/JavaScriptProjects)**
+🔗 **[Explore JavaScript Projects →](https://github.com/simonwsesuraj/JavaScriptProjects)**
 
 ---
+
 # 📌 What I'm Looking For
 
 I'm interested in opportunities related to:
@@ -235,6 +230,7 @@ I'm always interested in connecting with developers, students, recruiters, and p
   <a href="mailto:simonwsesuraj@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://simonsesuraj.vercel.app/#about">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
