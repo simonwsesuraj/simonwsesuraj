@@ -12,7 +12,7 @@ I'm currently strengthening my skills in **Full Stack Development, Oracle Databa
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science student
+* 🎓MSC.Computer Science student
 * 🌐 Interested in **Full Stack Development**
 * 🐍 Strong interest in **Python development**
 * ⚛️ Building web applications using **React & Django**
