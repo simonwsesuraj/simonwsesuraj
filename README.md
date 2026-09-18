@@ -234,12 +234,6 @@ Want to explore more of my work?
 
 ---
 
-### 🗄️ Oracle / Database Projects
-
-🔗 [**Explore Database Projects →**](https://github.com/simonwsesuraj/DjangoProjects)
-
----
-
 ### 🤖 Machine Learning Projects
 
 🔗 [**Explore ML Projects →**](https://github.com/simonwsesuraj/MLProjects)
