@@ -13,8 +13,8 @@
   </p>
 
   <p align="center">
-    <a href="https://simonwsesuraj.vercel.app/#about"><img src="https://img.shields.io/badge/Portfolio-simonsesuraj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/simonwsesuraj"><img src="https://img.shields.io/badge/LinkedIn-Simon_Sesuraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://simonwsesuraj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-simonwsesuraj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/simonwsesuraj"><img src="https://img.shields.io/badge/LinkedIn-Simon_Sesuraj_W-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:simonwsesuraj@gmail.com"><img src="https://img.shields.io/badge/Email-simonwsesuraj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
