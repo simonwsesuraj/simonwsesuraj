@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ⚡ Simon Sesuraj
+  # ⚡ Simon Sesuraj W
   
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -163,20 +163,6 @@ status: Open for Software Engineering, DBA & Full-Stack Opportunities
 | 🧠 **Deep Learning** | [DlProjects](https://github.com/simonwsesuraj/DlProjects) | Neural network implementations (CNNs, RNNs, LSTMs) with TensorFlow |
 | ⚛️ **Frontend Engineering** | [ReactProjects](https://github.com/simonwsesuraj/ReactProjects) · [JavaScriptProjects](https://github.com/simonwsesuraj/JavaScriptProjects) | UI components, state management, and modern JavaScript applications |
 | 🐍 **Backend Engineering** | [DjangoProjects](https://github.com/simonwsesuraj/DjangoProjects) | Scalable web backends, ORM operations, and API services |
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonwsesuraj&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwsesuraj&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="150" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonwsesuraj&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0D1117" alt="GitHub Streak" />
-</p>
 
 ---
 
