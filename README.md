@@ -1,317 +1,207 @@
-# 👋 Hi, I'm Simon Sesuraj
+<div align="center">
 
-### 🚀 Aspiring Full Stack Developer | Oracle Database Administrator | AI/ML Enthusiast
+  # ⚡ Simon Sesuraj
+  
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+(React+%2B+Django);Oracle+Database+Administrator+(DBA);MSc+Computer+Science+Scholar;Machine+Learning+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+    </a>
+  </p>
 
-I'm a Computer Science student passionate about building **full-stack applications, managing databases, and developing intelligent software solutions**.
+  <p align="center">
+    <b>Building resilient full-stack systems, mission-critical database architectures, and intelligent software.</b>
+  </p>
 
-I enjoy turning ideas into practical software using **Python, Django, React, JavaScript, Oracle Database, Machine Learning, and Deep Learning**.
+  <p align="center">
+    <a href="https://simonsesuraj.vercel.app/#about"><img src="https://img.shields.io/badge/Portfolio-simonsesuraj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/simonwsesuraj"><img src="https://img.shields.io/badge/LinkedIn-Simon_Sesuraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:simonwsesuraj@gmail.com"><img src="https://img.shields.io/badge/Email-simonwsesuraj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 
-I'm currently strengthening my skills in **Full Stack Development, Oracle Database Administration, Backend Development, Artificial Intelligence, and Data Science** by building real-world projects.
-
----
-
-## 👨‍💻 About Me
- 
-* 🎓 MSc. Computer Science student
-* 🌐 Interested in **Full Stack Development**
-* 🐍 Strong interest in **Python development**
-* ⚛️ Building web applications using **React & Django**
-* 🗄️ Learning and practicing **Oracle Database Administration**
-* 🔐 Interested in **Database Management, Backup & Recovery, and Database Security**
-* 🤖 Exploring **Artificial Intelligence and Machine Learning**
-* 🧠 Learning **Deep Learning** as a specialized area of Machine Learning
-* 📊 Interested in **Data Science and predictive systems**
-* 🔍 Enjoy solving programming and real-world problems
-* 🚀 Focused on building practical projects and continuously improving my skills
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+### 👨‍💻 Executive Summary
 
-### 🌐 Full Stack Development
+I am an **MSc Computer Science student** with a multidisciplinary engineering foundation spanning **Full-Stack Web Development**, **Enterprise Oracle Database Administration**, and **Applied Artificial Intelligence**. 
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+I bridge the gap between robust, scalable backends and intuitive, high-performance frontends—with specialized hands-on expertise in mission-critical database administration (RMAN, high availability, backup & recovery) and predictive machine learning models.
 
-### 🐍 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🗄️ Oracle Database Administration
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-**Areas of experience and learning:**
-
-`Oracle Architecture` · `SQL` · `Tablespaces` · `Database Creation` · `RMAN Backup & Recovery` · `Hot Backup` · `Cold Backup` · `Data Guard` · `Listener Configuration` · `Linux Administration`
-
-### 🤖 Artificial Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
-
-### 🗃️ Other Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+```yaml
+name: Simon Sesuraj
+role: Full Stack Developer & Database Administrator
+degree: MSc in Computer Science
+core_stack: [React, Django, Python, JavaScript, Oracle Database 19c/21c]
+focus_areas: [Distributed Systems, Cloud & Linux Administration, Deep Learning]
+status: Open for Software Engineering, DBA & Full-Stack Opportunities
+```
 
 ---
 
-# 🚀 What I Build
+### 🛠️ Technical Ecosystem
 
-My main areas of focus are:
-
-**Full Stack Development → Oracle Database Administration → Artificial Intelligence**
-
----
-
-## 🌐 Full Stack Development
-
-My primary development focus is building complete web applications from frontend to backend.
-
-### Frontend
-
-* React
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-* Vite
-
-### Backend
-
-* Python
-* Django
-* Django REST Framework
-* REST APIs
-* Authentication & Authorization
-
-### Databases
-
-* Oracle Database
-* MongoDB
-* SQL
-
-I enjoy building applications that connect a modern frontend with reliable backend APIs and database systems.
-
----
-
-## 🗄️ Oracle Database Administration
-
-I'm developing practical knowledge in **Oracle Database Administration** and database management.
-
-### Areas I'm Learning
-
-* Oracle Database Architecture
-* SGA and Background Processes
-* Database Creation
-* Tablespaces and Datafiles
-* SQL
-* Users and Privileges
-* Listener Configuration
-* Database Startup and Shutdown
-* Cold Backup
-* Hot Backup
-* RMAN Backup & Recovery
-* Database Recovery
-* Oracle Data Guard
-* Linux-based Oracle Administration
-
-My goal is to build strong practical knowledge in **database administration, backup/recovery, availability, and database operations**.
+<table>
+  <tr>
+    <td width="30%"><b>Frontend Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database & Administration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PL/SQL-E10098?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RMAN-C74634?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Data_Guard-004B87?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI, ML & Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps, OS & Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤖 Artificial Intelligence
+### 🎯 Core Engineering Pillars
 
-Artificial Intelligence is another area I'm exploring through practical projects.
+<details open>
+<summary><b>1. Enterprise Database Administration (Oracle)</b></summary>
+<br>
 
-Within AI, my learning focuses mainly on **Machine Learning and Deep Learning**.
+* **Architecture & Storage:** SGA/PGA memory tuning, background process monitoring, tablespace management, and data file allocation.
+* **Backup & High Availability:** Configuring robust RMAN backup policies, hot/cold backup execution, block media recovery, and Oracle Data Guard standby configurations.
+* **Security & Operations:** Role-based access control (RBAC), user privileges auditing, TNS listener network setup, and automated Linux shell routines.
+</details>
 
-### 🧠 Machine Learning
+<details open>
+<summary><b>2. Full-Stack Web Development</b></summary>
+<br>
 
-Machine Learning is a major area within Artificial Intelligence where I work with data to develop predictive models.
+* **Architecture:** Decoupled Single Page Applications (SPA) powered by React frontends and Django REST Framework backends.
+* **Security & Performance:** JWT-based user authentication, role authorization, RESTful design principles, and responsive CSS systems.
+* **Integrations:** Third-party mapping APIs (Leaflet/OSM), asynchronous background tasks, and relational data modeling.
+</details>
 
-**Areas of interest:**
+<details open>
+<summary><b>3. Applied Machine Learning & Deep Learning</b></summary>
+<br>
 
-* Regression
-* Classification
-* Feature Engineering
-* Data Preprocessing
-* Model Evaluation
-* Predictive Analytics
-* Natural Language Processing
-
-### 🔬 Deep Learning
-
-Deep Learning is a specialized area of Machine Learning focused on neural networks and representation learning.
-
-**Areas of interest:**
-
-* Artificial Neural Networks
-* CNN
-* RNN
-* LSTM
-* Natural Language Processing
-* Text Classification
-* Computer Vision
-
-### 💡 AI Applications
-
-I explore AI techniques through practical applications such as:
-
-* AI-powered applications
-* Intelligent assistants
-* Recommendation systems
-* Predictive applications
-* Text classification
-* Computer vision applications
-* AI automation
+* **Predictive Modeling:** End-to-end ML pipelines including exploratory data analysis (EDA), feature engineering, classification, and regression.
+* **Deep Neural Networks:** Architecting Convolutional Neural Networks (CNNs) for computer vision and Recurrent Neural Networks (RNN/LSTM) for sequential NLP and text analysis.
+</details>
 
 ---
 
-# ⭐ Featured Projects
+### ⭐ Featured Project
 
-Here are some of the projects I'm building and working on.
-
-## 🗺️ Campus Navigation System
-
-**React + Django + Leaflet + OpenStreetMap**
-
-A web-based campus navigation system designed to help students and visitors find buildings and navigate around a college campus.
-
-**Key Features:**
-
-* 🗺️ Interactive campus map
-* 📍 Location detection
-* 🔎 Destination search
-* 🧭 Route generation
-* 📌 Campus landmarks
-* 🛣️ Walkable paths
-* 🎤 Voice assistance
-
-🔗 [**View Project →**](https://github.com/simonwsesuraj/CampusNavigationSystem)
-
----
-
-# 📂 Explore My Projects
-
-Want to explore more of my work?
-
-### 🌐 Full Stack Projects
-
-🔗 [**Explore Full Stack Projects →**](https://github.com/simonwsesuraj/FullStackProjects)
+<table>
+  <tr>
+    <td width="65%">
+      <h3>🗺️ Campus Navigation System</h3>
+      <p>A full-stack, geospatial navigation platform built to help students and visitors effortlessly navigate complex university campuses in real-time.</p>
+      <ul>
+        <li><b>Dynamic Routing:</b> Interactive maps powered by Leaflet & OpenStreetMap with custom pathfinding logic.</li>
+        <li><b>Smart Assistance:</b> Voice-guided turn-by-turn directions and integrated landmark search.</li>
+        <li><b>Decoupled Architecture:</b> Responsive React client communicating with a resilient Django REST API.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
+      </p>
+      <a href="https://github.com/simonwsesuraj/CampusNavigationSystem"><b>View Repository ➜</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤖 Machine Learning Projects
+### 📂 Repository Index by Domain
 
-🔗 [**Explore ML Projects →**](https://github.com/simonwsesuraj/MLProjects)
-
----
-
-### 🧠 Deep Learning Projects
-
-🔗 [**Explore Deep Learning Projects →**](https://github.com/simonwsesuraj/DlProjects)
-
----
-
-### ⚛️ React Projects
-
-🔗 [**Explore React Projects →**](https://github.com/simonwsesuraj/ReactProjects)
+| Domain | Repositories | Description |
+| :--- | :--- | :--- |
+| 🌐 **Full-Stack Development** | [FullStackProjects](https://github.com/simonwsesuraj/FullStackProjects) | End-to-end web applications built with React, Django & REST APIs |
+| 🤖 **Machine Learning** | [MLProjects](https://github.com/simonwsesuraj/MLProjects) | Supervised/unsupervised algorithms, EDA, and predictive systems |
+| 🧠 **Deep Learning** | [DlProjects](https://github.com/simonwsesuraj/DlProjects) | Neural network implementations (CNNs, RNNs, LSTMs) with TensorFlow |
+| ⚛️ **Frontend Engineering** | [ReactProjects](https://github.com/simonwsesuraj/ReactProjects) · [JavaScriptProjects](https://github.com/simonwsesuraj/JavaScriptProjects) | UI components, state management, and modern JavaScript applications |
+| 🐍 **Backend Engineering** | [DjangoProjects](https://github.com/simonwsesuraj/DjangoProjects) | Scalable web backends, ORM operations, and API services |
 
 ---
 
-### 🐍 Django Projects
+### 📊 GitHub Activity & Metrics
 
-🔗 [**Explore Django Projects →**](https://github.com/simonwsesuraj/DjangoProjects)
-
----
-
-### 📜 JavaScript Projects
-
-🔗 [**Explore JavaScript Projects →**](https://github.com/simonwsesuraj/JavaScriptProjects)
-
----
-
-# 📌 What I'm Looking For
-
-I'm interested in opportunities related to:
-
-* 🌐 Full Stack Developer
-* 🐍 Python Developer
-* 🗄️ Oracle Database Administrator
-* 🤖 AI Developer
-* 🧠 Machine Learning
-* 🔬 Deep Learning
-* 📊 Data / AI Engineering
-
-I'm particularly interested in opportunities where I can **build real-world applications, work with databases, develop backend systems, and continue expanding my knowledge in AI and machine learning**.
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with developers, students, recruiters, database professionals, and people working on interesting technology projects.
-
-<p>
-  <a href="https://github.com/simonwsesuraj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/simonwsesuraj">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:simonwsesuraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://simonsesuraj.vercel.app/#about">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⭐ Thanks for Visiting!
-
-If you find any of my projects useful or interesting, feel free to ⭐ the repository.
-
-**Keep learning. Keep building. Keep improving. 🚀**
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonwsesuraj&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwsesuraj&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="150" alt="Top Languages" />
+</div>
 
 <p align="center">
-  <i>Building practical software with code, databases, and intelligent technologies.</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonwsesuraj&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect & Collaborate
+
+I am always eager to collaborate on innovative open-source software, scalable backend systems, or high-impact data/AI projects.
+
+<p align="center">
+  <a href="https://simonsesuraj.vercel.app/#about">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/simonwsesuraj">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/simonwsesuraj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:simonwsesuraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed & engineered with precision by <b>Simon Sesuraj</b></sub>
 </p>
