@@ -24,9 +24,9 @@
 
 ### 👨‍💻 Executive Summary
 
-I am an **MSc Computer Science student** with a multidisciplinary engineering foundation spanning **Full-Stack Web Development**, **Enterprise Oracle Database Administration**, and **Applied Artificial Intelligence**. 
+I am an **MSc Computer Science student** with a multidisciplinary engineering foundation spanning **Full-Stack Web Development**, **Oracle Database Administration**, and **Applied Artificial Intelligence**. 
 
-I bridge the gap between robust, scalable backends and intuitive, high-performance frontends—with specialized hands-on expertise in mission-critical database administration (RMAN, high availability, backup & recovery) and predictive machine learning models.
+I bridge the gap between robust, scalable backends and intuitive, high-performance frontends—with specialized hands-on expertise in Oracle database administration, backup & recovery, and high-availability concepts(RMAN, high availability, backup & recovery) and predictive machine learning models.
 
 ```yaml
 name: Simon Sesuraj
