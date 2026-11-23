@@ -129,52 +129,227 @@ Alongside software development and database administration, I explore Artificial
 
 ---
 
-## Featured Projects
 
-### 1. Campus Navigation System
+## Projects
 
-A full-stack geospatial navigation application designed to help students and visitors navigate the St. Joseph's College (Autonomous), Trichy campus.
+A collection of projects demonstrating my experience in full-stack development, backend engineering, database systems, and machine learning.
 
-**Key Features:**
-- Interactive campus maps using Leaflet and OpenStreetMap.
+### Project Directory
+
+| Project | Category | Technologies | Live Demo | Source Code |
+|---|---|---|---|---|
+| Campus Navigation System | Full Stack | React, Django, Leaflet, PostgreSQL | Not deployed | [GitHub](https://github.com/simonwsesuraj/CampusNavigationSystem) |
+| Book Management System | Full Stack | React, Django REST, PostgreSQL, JWT | Not deployed | [GitHub](https://github.com/simonwsesuraj/BookManagementSystem) |
+| SSrCart | Full Stack | React, Django REST, PostgreSQL | Add link | Add repository |
+| Stock Price Prediction | AI / ML | Python, Django, React, yfinance | Add link | Add repository |
+| Spam Email Prediction | Deep Learning | Python, TensorFlow, Keras, LSTM | Add link | Add repository |
+| House Price Prediction | Machine Learning | Python, Pandas, Scikit-learn | Add link | Add repository |
+| Smart Classroom Emotion Recognition | Deep Learning | Python, Tkinter, MobileNetV2 | Add link | Add repository |
+| Iris Secure Banking | Backend Development | Python, Flask, MySQL | Add link | Add repository |
+| Quote Guessing Game | Python | Python, Requests, BeautifulSoup | Add link | Add repository |
+
+---
+
+### Explore Projects
+
+<details>
+<summary><strong>01. Campus Navigation System</strong> — Full Stack Development</summary>
+
+A geospatial web application designed to help students and visitors navigate the St. Joseph's College (Autonomous), Trichy campus.
+
+**Key Features**
+- Interactive campus map using Leaflet and OpenStreetMap.
 - Building and landmark search.
-- Campus location and navigation information.
-- Custom walking-route functionality.
-- React frontend integrated with Django REST APIs.
+- Campus boundary and walkable road information.
+- Route calculation between campus locations.
+- Responsive user interface.
+- Django REST API integration.
 
-**Technologies:** React.js · Django · Python · Leaflet · OpenStreetMap
+**Technologies**
 
-[View Repository](https://github.com/simonwsesuraj/CampusNavigationSystem)
+`React.js` `Django` `Python` `Django REST Framework` `PostgreSQL` `Leaflet` `OpenStreetMap`
 
----
+**Links**
 
-### 2. Book Management System
+- [GitHub Repository](https://github.com/simonwsesuraj/CampusNavigationSystem)
+- Live Demo: Not currently listed
 
-A full-stack web application for managing personal book collections, tracking reading activities, and organizing book information.
+</details>
 
-**Key Features:**
-- Book collection management.
-- Book availability and borrowing information.
-- Reading progress and favorites.
-- Book notes and descriptions.
-- User authentication and personalized book management.
+<details>
+<summary><strong>02. Book Management System</strong> — Full Stack Development</summary>
 
-**Technologies:** React.js · Django · Django REST Framework · Python · PostgreSQL
+A web application for organizing personal book collections, managing book information, and tracking reading activities.
 
-[View Repository](https://github.com/simonwsesuraj/BookManagementSystem)
+**Key Features**
+- User authentication using JWT.
+- Add, edit, and manage books.
+- Book image uploads and gallery.
+- Reading status and favorites.
+- Borrowing information and tracking.
+- Personal book notes and descriptions.
 
----
+**Technologies**
 
-## Explore My Repositories
+`React.js` `Vite` `Bootstrap` `Python` `Django` `Django REST Framework` `PostgreSQL` `JWT`
 
-| Category | Repository | Description |
-|---|---|---|
-| Full Stack | [FullStackProjects](https://github.com/simonwsesuraj/FullStackProjects) | Full-stack web applications |
-| Frontend | [ReactProjects](https://github.com/simonwsesuraj/ReactProjects) | React applications and UI development |
-| JavaScript | [JavaScriptProjects](https://github.com/simonwsesuraj/JavaScriptProjects) | JavaScript projects and implementations |
-| Backend | [DjangoProjects](https://github.com/simonwsesuraj/DjangoProjects) | Django applications and backend development |
-| Machine Learning | [MLProjects](https://github.com/simonwsesuraj/MLProjects) | Machine Learning algorithms and projects |
-| Deep Learning | [DlProjects](https://github.com/simonwsesuraj/DlProjects) | Deep Learning implementations |
+**Links**
+
+- [GitHub Repository](https://github.com/simonwsesuraj/BookManagementSystem)
+- Live Demo: Not currently listed
+
+</details>
+
+<details>
+<summary><strong>03. SSrCart</strong> — Full Stack E-Commerce</summary>
+
+A full-stack e-commerce application developed using React and Django REST Framework.
+
+**Key Features**
+- Customer registration and authentication.
+- JWT-based authentication.
+- Product and shopping workflows.
+- REST API integration.
+- PostgreSQL database integration.
+
+**Technologies**
+
+`React.js` `Vite` `Bootstrap` `Python` `Django REST Framework` `PostgreSQL` `JWT`
+
+**Links**
+
+- Live Demo: Add deployment URL
+- GitHub Repository: Add repository URL
+
+</details>
+
+<details>
+<summary><strong>04. Stock Price Prediction</strong> — Machine Learning & Full Stack</summary>
+
+A stock market analysis and prediction application combining a web interface with Python-based data analysis and predictive modeling.
+
+**Key Features**
+- Historical stock market data retrieval.
+- Stock price data analysis.
+- Data processing and visualization.
+- Machine learning-based price prediction.
+
+**Technologies**
+
+`Python` `Django` `React.js` `yfinance` `Pandas` `NumPy` `Machine Learning`
+
+**Links**
+
+- Live Demo: Add deployment URL
+- GitHub Repository: Add repository URL
+
+</details>
+
+<details>
+<summary><strong>05. Spam Email Prediction</strong> — Deep Learning & NLP</summary>
+
+A machine learning project that classifies text messages or emails as spam or legitimate using an LSTM-based neural network.
+
+**Key Features**
+- Text preprocessing.
+- Tokenization and sequence padding.
+- Word embedding.
+- LSTM-based classification.
+- Spam and legitimate message prediction.
+
+**Technologies**
+
+`Python` `TensorFlow` `Keras` `LSTM` `NLP`
+
+**Links**
+
+- Live Demo: Add deployment URL
+- GitHub Repository: Add repository URL
+
+</details>
+
+<details>
+<summary><strong>06. House Price Prediction</strong> — Machine Learning</summary>
+
+A machine learning project focused on predicting property prices using property-related data and regression techniques.
+
+**Key Features**
+- Dataset preprocessing.
+- Exploratory data analysis.
+- Feature preparation.
+- Regression-based price prediction.
+
+**Technologies**
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+**Links**
+
+- Live Demo: Add deployment URL
+- GitHub Repository: Add repository URL
+
+</details>
+
+<details>
+<summary><strong>07. Smart Classroom Emotion Recognition</strong> — Deep Learning & Computer Vision</summary>
+
+A desktop-based emotion recognition application that uses a MobileNetV2 model to identify facial expressions.
+
+**Key Features**
+- Camera-based facial emotion recognition.
+- Deep learning model integration.
+- Desktop interface using Tkinter.
+- Recognition of seven emotion categories.
+
+**Technologies**
+
+`Python` `Tkinter` `MobileNetV2` `Deep Learning` `Computer Vision`
+
+**Links**
+
+- Live Demo: Desktop application
+- GitHub Repository: Add repository URL
+
+</details>
+
+<details>
+<summary><strong>08. Iris Secure Banking</strong> — Backend Development</summary>
+
+A banking application developed using Flask and MySQL, focusing on backend functionality and database integration.
+
+**Technologies**
+
+`Python` `Flask` `MySQL`
+
+**Links**
+
+- Live Demo: Add deployment URL
+- GitHub Repository: Add repository URL
+
+</details>
+
+<details>
+<summary><strong>09. Quote Guessing Game</strong> — Python & Web Scraping</summary>
+
+A Python application that retrieves quotes from websites and provides an interactive quote-guessing experience.
+
+**Key Features**
+- Web scraping using BeautifulSoup.
+- Pagination and quote collection.
+- Random quote selection.
+- Progressive hints.
+- Quote guessing functionality.
+
+**Technologies**
+
+`Python` `Requests` `BeautifulSoup`
+
+**Links**
+
+- Live Demo: Python application
+- GitHub Repository: Add repository URL
+
+</details>
 
 ---
 
