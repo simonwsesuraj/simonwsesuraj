@@ -139,8 +139,8 @@ A collection of projects demonstrating my experience in full-stack development, 
 | Project | Category | Technologies | Live Demo | Source Code |
 |---|---|---|---|---|
 | Campus Navigation System | Full Stack | React, Django, Leaflet, PostgreSQL | Not deployed | [GitHub](https://github.com/simonwsesuraj/CampusNavigationSystem) |
-| Book Management System | Full Stack | React, Django REST, PostgreSQL, JWT | Not deployed | [GitHub](https://github.com/simonwsesuraj/BookManagementSystem) |
-| SSrCart | Full Stack | React, Django REST, PostgreSQL | Add link | Add repository |
+| Book Management System | Full Stack | React, Django REST, PostgreSQL, JWT | [Live](https://book-management-system-simon.vercel.app/) | [GitHub](https://github.com/simonwsesuraj/BookManagementSystem) |
+| Portfolio | Frontend | React, Bootstrap | [Live](https://simonwsesuraj.vercel.app/) | [GitHub](https://github.com/simonwsesuraj/Portfolio) |
 | Stock Price Prediction | AI / ML | Python, Django, React, yfinance | Add link | Add repository |
 | Spam Email Prediction | Deep Learning | Python, TensorFlow, Keras, LSTM | Add link | Add repository |
 | House Price Prediction | Machine Learning | Python, Pandas, Scikit-learn | Add link | Add repository |
